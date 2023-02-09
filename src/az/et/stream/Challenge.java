@@ -29,4 +29,8 @@ public class Challenge {
                 })
                 .collect(Collectors.joining(","));
     }
+
+    public static class Test{
+
+    }
 }
